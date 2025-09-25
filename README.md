@@ -25,6 +25,7 @@ O objetivo é fornecer uma base escalável para o gerenciamento de **usuários, 
 ---
 
 ## 📂 Estrutura do Projeto
+```
 src/
 ├── Main.java
 ├── Usuario.java
@@ -32,7 +33,7 @@ src/
 ├── Projeto.java
 ├── Perfil.java
 └── StatusProjeto.java
-
+```
 
 - **Usuario** → representa os usuários do sistema (administrador, gerente ou colaborador).  
 - **Equipe** → representa as equipes de trabalho e seus membros.  
