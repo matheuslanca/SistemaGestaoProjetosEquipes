@@ -51,14 +51,14 @@ src/
 2. Compile e execute a classe Main.
 3. Veja no console os exemplos de criação de usuários, equipes e projetos.
 
-📈 Roadmap de Evolução
-- Persistência em banco de dados (MySQL/PostgreSQL).
-- API REST com Spring Boot.
-- Interface gráfica/web para interação de usuários.
-- Relatórios e dashboards para gestores.
-- Integração com ferramentas externas (Slack, Trello, etc).
+## 📈 Roadmap de Evolução
+- **Persistência em banco de dados (MySQL/PostgreSQL).**
+- **API REST com Spring Boot.**
+- **Interface gráfica/web para interação de usuários.**
+- **Relatórios e dashboards para gestores.**
+- **Integração com ferramentas externas (Slack, Trello, etc).**
 
-👨‍💻 Autores
+## 👨‍💻 Autores
 Matheus Lança
 Diane Castro
 
