@@ -47,7 +47,6 @@ src/
 1. Clone este repositório:
    ```bash
    git clone https://github.com/matheuslanca/SistemaGestaoProjetosEquipes.git
-   Abra o projeto em uma IDE (IntelliJ IDEA ou Eclipse).
 2. Compile e execute a classe Main.
 3. Veja no console os exemplos de criação de usuários, equipes e projetos.
 
