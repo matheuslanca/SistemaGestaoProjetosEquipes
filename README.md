@@ -20,7 +20,7 @@ O objetivo é fornecer uma base escalável para o gerenciamento de **usuários, 
 
 - **Java SE**  
 - **Paradigma Orientado a Objetos (POO)**  
-- IDE recomendada: **IntelliJ IDEA** ou **Eclipse**  
+- IDE: **IntelliJ IDEA**
 
 ---
 
