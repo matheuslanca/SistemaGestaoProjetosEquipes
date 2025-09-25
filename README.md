@@ -59,6 +59,6 @@ src/
 - **Integração com ferramentas externas (Slack, Trello, etc).**
 
 ## 👨‍💻 Autores
-Matheus Lança
-Diane Castro
+- Matheus Lança
+- Diane Castro
 
